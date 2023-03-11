@@ -1,0 +1,20 @@
+/* Write your code here. */
+li {
+  list-style-type: none;
+}
+
+.thumbnail-button {
+  border: 0px;
+  background-color: transparent;
+}
+.thumbnail-img {
+  width: 60px;
+  opacity: 0.5;
+}
+.opacity-none {
+  opacity: none;
+  width: 60px;
+}
+.img-details {
+  margin-left: 0px;
+}
